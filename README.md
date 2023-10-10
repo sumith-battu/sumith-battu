@@ -54,7 +54,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/sumith-battu/sumith-battu/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
