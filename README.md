@@ -1,4 +1,4 @@
-<h4 align="left">Hola Amigos this is Sumith <br>-----------------------------------------------------------------------------------------------------------------------------------------------<br><br><br>➢ I am aSoftware Engineer<br>➢ Intrest Always lies in Competitive Coding</h4>
+<h4 align="left">Hola Amigos this is Sumith <br>-----------------------------------------------------------------------------------------------------------------------------------------------<br><br><br>➢ I am a Software Engineer<br>➢ Intrest Always lies in Competitive Coding</h4>
 
 ###
 
